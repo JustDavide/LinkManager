@@ -1,0 +1,6 @@
+bot:
+  token: "///"
+  guild_id: "///"
+
+rewards:
+  - say "Update the rewards"

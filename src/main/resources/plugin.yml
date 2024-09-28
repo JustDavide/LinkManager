@@ -1,0 +1,5 @@
+name: LinkManager
+version: '${project.version}'
+main: me.dovide.linkmanager.LinkMain
+api-version: '1.20'
+authors: [Dovide]
